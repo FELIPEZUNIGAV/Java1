@@ -2,6 +2,10 @@
 
 Este software debe implementar las 4 operaciones matemáticas básicas 
 
+## Especificasiones
+
+Aplicacion contruida con patron de diseño front contoller, jsp, Servlet, Java 1.8 
+
 ## Installation
 
 Para su instalacion se requiere ide que soporte java 8,
